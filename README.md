@@ -1,9 +1,11 @@
 # k10 pdf library
 
 This is a small-thrown together program that:   
-1) Watches a folder for file changes
-2) Runs new pdf files through `ghostscript` and outputs the covers as png's
-3) Presents the cover images via a web interface to download said pdf's
+1 Watches a folder for file changes
+
+2 Runs new pdf files through `ghostscript` and outputs the covers as png's
+
+3 Presents the cover images via a web interface to download said pdf's
 
 ## Usage
 The program uses three flags:
